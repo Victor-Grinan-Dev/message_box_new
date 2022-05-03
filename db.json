@@ -1,0 +1,36 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "firstname": "Emmie",
+      "lastname": "White",
+      "phone": "0400455098",
+      "role": "teacher",
+      "message": "some really importan stuff"
+    },
+    {
+      "id": 2,
+      "firstname": "Roberto",
+      "lastname": "Perez",
+      "phone": "555-4435344",
+      "role": "police",
+      "message": "we summon you to the station to declare"
+    },
+    {
+      "id": 3,
+      "firstname": "Luna",
+      "lastname": "de la caridad",
+      "phone": "881 23 3445",
+      "role": "sells person",
+      "message": "we have tarjous for you"
+    },
+    {
+      "firstname": "victor",
+      "lastname": "grinan",
+      "phone": "12345678",
+      "role": "student",
+      "message": "helo madafaka\n",
+      "id": 4
+    }
+  ]
+}
